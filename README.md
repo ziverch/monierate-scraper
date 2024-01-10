@@ -8,6 +8,6 @@ Extracts current dollar exchange rates from Monierate.com, a Nigerian exchange r
 
 ### Usage
 * Install required libraries:
-  `pip install beautifulsoup4 requests pandas tweepy`
+  `pip install beautifulsoup4 requests`
 
 * Run the script to scrape rates and post updates to Twitter.
